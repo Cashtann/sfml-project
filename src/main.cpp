@@ -4,7 +4,7 @@ int main()
 {
     sf::RenderWindow window(
         sf::VideoMode(640, 480),
-        "Hello World");
+        "Hello, World");
     sf::CircleShape shape(200);
 
     while (window.isOpen())
