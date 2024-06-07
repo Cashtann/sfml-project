@@ -18,3 +18,5 @@ private:
 
     bool mIsMovingUp, mIsMovingDown, mIsMovingRight, mIsMovingLeft;
 };
+
+
